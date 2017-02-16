@@ -1,12 +1,12 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-clear-stream-theme"
+  spec.name          = "jekyll-theme-clear-stream"
   spec.version       = "0.1.0"
   spec.authors       = ["Teddy-Ma"]
   spec.email         = ["mlc880926@gmail.com"]
 
-  spec.summary       = %q{a clear stream of jekyll themes }
+  spec.summary       = %q{ a clear stream of jekyll themes }
   spec.homepage      = "https://www.songofcode.com"
   spec.license       = "MIT"
 

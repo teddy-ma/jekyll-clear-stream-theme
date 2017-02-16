@@ -28,6 +28,13 @@ Or install it yourself as:
 
 typo.css for Chinese and syntax highlight for code.
 
+## Site configuration
+
+- `google_analytics`
+- `description`
+- `keywords`
+- `title`
+
 ## Development
 
 To set up your environment to develop this theme, run `bundle install`.
