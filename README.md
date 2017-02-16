@@ -1,19 +1,19 @@
 # jekyll-clear-stream-theme
 
-Simple Jekyll theme for Chinese blogger
+Simple Jekyll theme for Chinese blogger.
 
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
 
 ```ruby
-gem "jekyll-clear-stream-theme"
+gem "jekyll-theme-clear-stream"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: jekyll-clear-stream-theme
+theme: jekyll-theme-clear-stream
 ```
 
 And then execute:
@@ -22,7 +22,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jekyll-clear-stream-theme
+    $ gem install jekyll-theme-clear-stream
 
 ## What's inside?
 
